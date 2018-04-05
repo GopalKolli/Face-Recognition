@@ -1,6 +1,8 @@
-					README
+							README
 
 Face Datasets: YaleB Face dataset
+
+I discourage any student to use this repository for academic projects/assignments and other academic purposes.
 
 This project consists of two MATLAB scripts.
 
